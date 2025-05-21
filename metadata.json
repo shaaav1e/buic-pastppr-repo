@@ -1,0 +1,82 @@
+[
+  {
+    "courseCode": "CS-101",
+    "courseName": "Introduction to Computing",
+    "semester": "First Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Dr. Ahmed",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/your-username/buic-papers-content/main/papers/old-roadmap/semester-1/CS-101/Dr-Ahmed/2021_Final.pdf"
+  },
+  {
+    "courseCode": "CS-101",
+    "courseName": "Introduction to Computing",
+    "semester": "First Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Dr. Ahmed",
+    "year": "2021",
+    "type": "Midterm",
+    "fileUrl": "https://raw.githubusercontent.com/your-username/buic-papers-content/main/papers/old-roadmap/semester-1/CS-101/Dr-Ahmed/2021_Midterm.pdf"
+  },
+  {
+    "courseCode": "CS-101",
+    "courseName": "Introduction to Computing",
+    "semester": "First Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Ms. Fatima",
+    "year": "2020",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/your-username/buic-papers-content/main/papers/old-roadmap/semester-1/CS-101/Ms-Fatima/2020_Final.pdf"
+  },
+  {
+    "courseCode": "MTH-101",
+    "courseName": "Calculus and Analytical Geometry",
+    "semester": "First Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Dr. Khan",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/your-username/buic-papers-content/main/papers/old-roadmap/semester-1/MTH-101/Dr-Khan/2021_Final.pdf"
+  },
+  {
+    "courseCode": "MTH-101",
+    "courseName": "Calculus and Analytical Geometry",
+    "semester": "First Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Dr. Khan",
+    "year": "2021",
+    "type": "Midterm",
+    "fileUrl": "https://raw.githubusercontent.com/your-username/buic-papers-content/main/papers/old-roadmap/semester-1/MTH-101/Dr-Khan/2021_Midterm.pdf"
+  },
+  {
+    "courseCode": "ENG-101",
+    "courseName": "English Composition & Comprehension",
+    "semester": "First Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Ms. Aisha",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/your-username/buic-papers-content/main/papers/old-roadmap/semester-1/ENG-101/Ms-Aisha/2022_Final.docx"
+  },
+  {
+    "courseCode": "PHY-101",
+    "courseName": "Applied Physics",
+    "semester": "First Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Dr. Yasir",
+    "year": "2019",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/your-username/buic-papers-content/main/papers/old-roadmap/semester-1/PHY-101/Dr-Yasir/2019_Final.pdf"
+  },
+  {
+    "courseCode": "PHY-101",
+    "courseName": "Applied Physics",
+    "semester": "First Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Dr. Yasir",
+    "year": "2020",
+    "type": "Quiz",
+    "fileUrl": "https://raw.githubusercontent.com/your-username/buic-papers-content/main/papers/old-roadmap/semester-1/PHY-101/Dr-Yasir/2020_Quiz.pdf"
+  }
+]
