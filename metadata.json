@@ -1,54 +1,25 @@
 [
-  {
-    "courseCode": "CS-101",
-    "courseName": "Introduction to Computing",
-    "semester": "First Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Ahmed",
-    "year": "2021",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/CS-101/Dr-Ahmed/2021_Final.pdf"
-  },
-  {
-    "courseCode": "CS-101",
-    "courseName": "Introduction to Computing",
-    "semester": "First Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Ahmed",
-    "year": "2021",
-    "type": "Midterm",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/CS-101/Dr-Ahmed/2021_Midterm.pdf"
-  },
-  {
-    "courseCode": "CS-101",
-    "courseName": "Introduction to Computing",
-    "semester": "First Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Ms. Fatima",
-    "year": "2020",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/CS-101/Ms-Fatima/2020_Final.pdf"
-  },
-  {
-    "courseCode": "MTH-101",
-    "courseName": "Calculus and Analytical Geometry",
-    "semester": "First Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Khan",
-    "year": "2021",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/MTH-101/Dr-Khan/2021_Final.pdf"
-  },
-  {
-    "courseCode": "MTH-101",
-    "courseName": "Calculus and Analytical Geometry",
-    "semester": "First Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Khan",
-    "year": "2021",
-    "type": "Midterm",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/MTH-101/Dr-Khan/2021_Midterm.pdf"
-  },
+  // {
+  //   "courseCode": "CS-101",
+  //   "courseName": "Introduction to Computing",
+  //   "semester": "First Semester",
+  //   "roadmap": "Old RoadMap",
+  //   "teacherName": "Dr. Ahmed",
+  //   "year": "2021",
+  //   "type": "Final",
+  //   "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/CS-101/Dr-Ahmed/2021_Final.pdf"
+  // },
+  // {
+  //   "courseCode": "MTH-101",
+  //   "courseName": "Calculus and Analytical Geometry",
+  //   "semester": "First Semester",
+  //   "roadmap": "Old RoadMap",
+  //   "teacherName": "Dr. Khan",
+  //   "year": "2021",
+  //   "type": "Final",
+  //   "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/MTH-101/Dr-Khan/2021_Final.pdf"
+  // },
+
   {
     "courseCode": "ENG-101",
     "courseName": "English Composition & Comprehension",
@@ -895,42 +866,10 @@
     "courseName": "Technical Writing & presentation skills",
     "semester": "Sixth Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Anderson",
-    "year": "2022",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/HSS-320/Dr-Anderson/2022_Final.docx"
-  },
-  {
-    "courseCode": "HSS-320",
-    "courseName": "Technical Writing & presentation skills",
-    "semester": "Sixth Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Prof. Thompson",
-    "year": "2021",
-    "type": "Midterm",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/HSS-320/Prof-Thompson/2021_Midterm.pdf"
-  },
-
-  // Semester 6 - SEL-310 (Web Engineering Lab)
-  {
-    "courseCode": "SEL-310",
-    "courseName": "Web Engineering Lab",
-    "semester": "Sixth Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Martinez",
-    "year": "2022",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/SEL-310/Dr-Martinez/2022_Final.pdf"
-  },
-  {
-    "courseCode": "SEL-310",
-    "courseName": "Web Engineering Lab",
-    "semester": "Sixth Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Ms. Johnson",
-    "year": "2021",
-    "type": "Project",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/SEL-310/Ms-Johnson/2021_Project.zip"
+    "teacherName": "QuratulAin",
+    "year": "2023",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/HSS-320/QuratulAin/TWPS-MIDTERM-2023-Quratulain.pdf"
   },
 
   // Semester 6 - GSC-320 (Numerical Analysis)
@@ -939,20 +878,10 @@
     "courseName": "Numerical Analysis",
     "semester": "Sixth Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Prof. Wilson",
-    "year": "2021",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/Prof-Wilson/2021_Final.pdf"
-  },
-  {
-    "courseCode": "GSC-320",
-    "courseName": "Numerical Analysis",
-    "semester": "Sixth Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Davis",
-    "year": "2022",
-    "type": "Midterm",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/Dr-Davis/2022_Midterm.pdf"
+    "teacherName": "",
+    "year": "",
+    "type": "",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/name/"
   },
 
   // Semester 6 - CSC-325 (Artificial Intelligence)
@@ -961,174 +890,181 @@
     "courseName": "Artificial Intelligence",
     "semester": "Sixth Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Smith",
-    "year": "2022",
+    "teacherName": "Abdul Salam",
+    "year": "2024",
     "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-325/Dr-Smith/2022_Final.pdf"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-325/AbdulSalam/AI-Final-Term-2024-Usama-Israr-AbdulSalam.docx"
   },
   {
     "courseCode": "CSC-325",
     "courseName": "Artificial Intelligence",
     "semester": "Sixth Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Prof. Brown",
-    "year": "2021",
-    "type": "Midterm",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-325/Prof-Brown/2021_Midterm.pdf"
+    "teacherName": "Abdul Salam",
+    "year": "2024",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-325/AbdulSalam/AI-Mid-Term-2024-Usama-Israr-AbdulSalam.docx"
+  },
+  {
+    "courseCode": "CSC-325",
+    "courseName": "Artificial Intelligence",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Hafiz Ishfaq",
+    "year": "2023",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-325/HafizIshfaq/Final-Term-Exam--Spring-2023-12072023-104218pm.pdf"
+  },
+  {
+    "courseCode": "CSC-325",
+    "courseName": "Artificial Intelligence",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Israr Akhtar",
+    "year": "2024",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-325/IsrarAkhtar/AI-Final-Term-2024-Usama-Israr-AbdulSalam.docx"
+  },
+  {
+    "courseCode": "CSC-325",
+    "courseName": "Artificial Intelligence",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Israr Akhtar",
+    "year": "2024",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-325/IsrarAkhtar/AI-Mid-Term-2024-Usama-Israr-AbdulSalam.docx"
+  },
+  {
+    "courseCode": "CSC-325",
+    "courseName": "Artificial Intelligence",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Usama Imtiaz",
+    "year": "2024",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-325/UsamaImtiaz/AI-Final-Term-2024-Usama-Israr-AbdulSalam.docx"
+  },
+
+  {
+    "courseCode": "CSC-325",
+    "courseName": "Artificial Intelligence",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Usama Imtiaz",
+    "year": "2024",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-325/UsamaImtiaz/AI-Mid-Term-2024-Usama-Israr-AbdulSalam.docx"
+  },
+
+  {
+    "courseCode": "CSC-325",
+    "courseName": "Artificial Intelligence",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Usama Imtiaz",
+    "year": "2023",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-325/UsamaImtiaz/Final-Term-Exam--Spring-2023-12072023-104218pm.pdf"
   },
 
   // Semester 6 - CSL-325 (Artificial Intelligence Lab)
-  {
-    "courseCode": "CSL-325",
-    "courseName": "Artificial Intelligence Lab",
-    "semester": "Sixth Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Taylor",
-    "year": "2022",
-    "type": "Project",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSL-325/Dr-Taylor/2022_Project.zip"
-  },
-  {
-    "courseCode": "CSL-325",
-    "courseName": "Artificial Intelligence Lab",
-    "semester": "Sixth Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Ms. Jackson",
-    "year": "2021",
-    "type": "Quiz",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSL-325/Ms-Jackson/2021_Quiz.pdf"
-  },
+
+  // {
+  //   "courseCode": "CSL-325",
+  //   "courseName": "Artificial Intelligence Lab",
+  //   "semester": "Sixth Semester",
+  //   "roadmap": "Old RoadMap",
+  //   "teacherName": "",
+  //   "year": "",
+  //   "type": "",
+  //   "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSL-325/Name/"
+  // },
 
   // Semester 6 - CSC-341 (Mobile Application Development)
-  {
-    "courseCode": "CSC-341",
-    "courseName": "Mobile Application Development",
-    "semester": "Sixth Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Prof. Harris",
-    "year": "2022",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-341/Prof-Harris/2022_Final.pdf"
-  },
-  {
-    "courseCode": "CSC-341",
-    "courseName": "Mobile Application Development",
-    "semester": "Sixth Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Clark",
-    "year": "2021",
-    "type": "Midterm",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-341/Dr-Clark/2021_Midterm.pdf"
-  },
+  // {
+  //   "courseCode": "CSC-341",
+  //   "courseName": "Mobile Application Development",
+  //   "semester": "Sixth Semester",
+  //   "roadmap": "Old RoadMap",
+  //   "teacherName": "Muhammad Asif",
+  //   "year": "2024",
+  //   "type": "Mid",
+  //   "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-341/MuhammadAsif/"
+  // },
 
   // Semester 6 - CSL-341 (Mobile Application Development Lab)
-  {
-    "courseCode": "CSL-341",
-    "courseName": "Mobile Application Development Lab",
-    "semester": "Sixth Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Ms. Lewis",
-    "year": "2022",
-    "type": "Project",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSL-341/Ms-Lewis/2022_Project.zip"
-  },
-  {
-    "courseCode": "CSL-341",
-    "courseName": "Mobile Application Development Lab",
-    "semester": "Sixth Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Allen",
-    "year": "2021",
-    "type": "Lab",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSL-341/Dr-Allen/2021_Lab.pdf"
-  },
+  // {
+  //   "courseCode": "CSL-341",
+  //   "courseName": "Mobile Application Development Lab",
+  //   "semester": "Sixth Semester",
+  //   "roadmap": "Old RoadMap",
+  //   "teacherName": "Muhammad Asif",
+  //   "year": "",
+  //   "type": "",
+  //   "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSL-341/MuhammadAsif/"
+  // },
+
   // Semester 6 - SEN-310 (Web Engineering)
   {
     "courseCode": "SEN-310",
     "courseName": "Web Engineering",
     "semester": "Sixth Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Prof. Young",
-    "year": "2022",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/SEN-310/Prof-Young/2022_Final.pdf"
+    "teacherName": "Muhammad Asif",
+    "year": "2024",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/SEN-310/MuhammadAsif/Mid-Term-Exam-Spring-2024-WE-Theory-Asif.docx"
   },
+
+  // Semester 6 - SEL-310 (Web Engineering Lab)
   {
-    "courseCode": "SEN-310",
-    "courseName": "Web Engineering",
+    "courseCode": "SEL-310",
+    "courseName": "Web Engineering Lab",
     "semester": "Sixth Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Walker",
-    "year": "2021",
-    "type": "Project",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/SEN-310/Dr-Walker/2021_Project.pdf"
+    "teacherName": "Muhammad Asif",
+    "year": "2023",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/SEL-310/MuhammadAsif/Final-Term-Exam-Fall-2023-WE-Lab-Asif.docx"
   },
 
   // Semester 7 - PAK-101 (Pakistan Studies)
-  {
-    "courseCode": "PAK-101",
-    "courseName": "Pakistan Studies",
-    "semester": "Seventh Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Ahmed",
-    "year": "2022",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/PAK-101/Dr-Ahmed/2022_Final.pdf"
-  },
-  {
-    "courseCode": "PAK-101",
-    "courseName": "Pakistan Studies",
-    "semester": "Seventh Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Prof. Khan",
-    "year": "2021",
-    "type": "Midterm",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/PAK-101/Prof-Khan/2021_Midterm.pdf"
-  },
+
+  // {
+  //   "courseCode": "PAK-101",
+  //   "courseName": "Pakistan Studies",
+  //   "semester": "Seventh Semester",
+  //   "roadmap": "Old RoadMap",
+  //   "teacherName": "",
+  //   "year": "",
+  //   "type": "",
+  //   "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/PAK-101/"
+  // },
 
   // Semester 7 - SEN-410 (Software Project Management)
-  {
-    "courseCode": "SEN-410",
-    "courseName": "Software Project Management",
-    "semester": "Seventh Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Malik",
-    "year": "2022",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/SEN-410/Dr-Malik/2022_Final.pdf"
-  },
-  {
-    "courseCode": "SEN-410",
-    "courseName": "Software Project Management",
-    "semester": "Seventh Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Prof. Qureshi",
-    "year": "2021",
-    "type": "Project",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/SEN-410/Prof-Qureshi/2021_Project.pdf"
-  },
+  // {
+  //   "courseCode": "SEN-410",
+  //   "courseName": "Software Project Management",
+  //   "semester": "Seventh Semester",
+  //   "roadmap": "Old RoadMap",
+  //   "teacherName": "",
+  //   "year": "",
+  //   "type": "",
+  //   "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/SEN-410/"
+  // },
 
   // Semester 7 - MGT-111 (Principles of Management)
-  {
-    "courseCode": "MGT-111",
-    "courseName": "Principles of Management",
-    "semester": "Seventh Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Hussain",
-    "year": "2021",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/MGT-111/Dr-Hussain/2021_Final.docx"
-  },
-  {
-    "courseCode": "MGT-111",
-    "courseName": "Principles of Management",
-    "semester": "Seventh Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Ms. Mahmood",
-    "year": "2022",
-    "type": "Quiz",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/MGT-111/Ms-Mahmood/2022_Quiz.pdf"
-  },
+  // {
+  //   "courseCode": "MGT-111",
+  //   "courseName": "Principles of Management",
+  //   "semester": "Seventh Semester",
+  //   "roadmap": "Old RoadMap",
+  //   "teacherName": "",
+  //   "year": "",
+  //   "type": "",
+  //   "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/MGT-111/"
+  // },
 
   // Semester 7 - CEN-455 (Parallel & Distributed Computing)
   {
@@ -1136,20 +1072,20 @@
     "courseName": "Parallel & Distributed Computing",
     "semester": "Seventh Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Rahman",
-    "year": "2022",
+    "teacherName": "Muhammad Asif",
+    "year": "2024",
     "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/CEN-455/Dr-Rahman/2022_Final.pdf"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/CEN-455/MuhammadAsif/Final-Term-Exam-Summer-2024-PADC-Theory-Asif.docx"
   },
   {
     "courseCode": "CEN-455",
     "courseName": "Parallel & Distributed Computing",
     "semester": "Seventh Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Prof. Ali",
-    "year": "2021",
-    "type": "Project",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/CEN-455/Prof-Ali/2021_Project.pdf"
+    "teacherName": "Muhammad Asif",
+    "year": "2024",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/CEN-455/MuhammadAsif/P&DC-Mid-Term-Exam-Summer-2024-Asif.docx"
   },
 
   // Semester 8 - MGT-242 (Organizational Theory & Behavior)
@@ -1158,20 +1094,20 @@
     "courseName": "Organizational Theory & Behavior",
     "semester": "Eighth Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Shahid",
-    "year": "2022",
+    "teacherName": "Erum Ishaq",
+    "year": "2024",
     "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/MGT-242/Dr-Shahid/2022_Final.pdf"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/MGT-242/ErumIshaq/OTB-Final-Term-2024-Erum-Madeeha.docx"
   },
   {
     "courseCode": "MGT-242",
     "courseName": "Organizational Theory & Behavior",
     "semester": "Eighth Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Prof. Iqbal",
-    "year": "2021",
-    "type": "Midterm",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/MGT-242/Prof-Iqbal/2021_Midterm.docx"
+    "teacherName": "Madeeha Ali",
+    "year": "2024",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/MGT-242/MadeehaAli/OTB-Final-Term-2024-Erum-Madeeha.docx"
   },
 
   // Semester 8 - SEN-420 (Software Quality Assurance)
@@ -1180,20 +1116,40 @@
     "courseName": "Software Quality Assurance",
     "semester": "Eighth Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Kamal",
-    "year": "2022",
+    "teacherName": "Fazal Wahab",
+    "year": "2024",
     "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/SEN-420/Dr-Kamal/2022_Final.pdf"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/SEN-420/FazalWahab/SQA-Final-Term-2024-FazalWahab-SairaHameed.jpg"
   },
   {
     "courseCode": "SEN-420",
     "courseName": "Software Quality Assurance",
     "semester": "Eighth Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Prof. Naveed",
-    "year": "2021",
-    "type": "Project",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/SEN-420/Prof-Naveed/2021_Project.pdf"
+    "teacherName": "Fazal Wahab",
+    "year": "2024",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/SEN-420/FazalWahab/SQA-Mid-Term-2024-FazalWahab-SairaHameed.jpg"
+  },
+  {
+    "courseCode": "SEN-420",
+    "courseName": "Software Quality Assurance",
+    "semester": "Eighth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Saira Hameed",
+    "year": "2024",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/SEN-420/SairaHameed/SQA-Final-Term-2024-FazalWahab-SairaHameed.jpg"
+  },
+  {
+    "courseCode": "SEN-420",
+    "courseName": "Software Quality Assurance",
+    "semester": "Eighth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Saira Hameed",
+    "year": "2024",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/SEN-420/SairaHameed/SQA-Mid-Term-2024-FazalWahab-SairaHameed.jpg"
   },
 
   // Semester 8 - CSC-407 (Information Security)
@@ -1202,20 +1158,30 @@
     "courseName": "Information Security",
     "semester": "Eighth Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Zafar",
-    "year": "2022",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/CSC-407/Dr-Zafar/2022_Final.pdf"
+    "teacherName": "Hafiz Ishfaq Ahmed",
+    "year": "2023",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/CSC-407/HafizIshfaq/IS-Mid-Term-Exam-Spring-2023-Hafiz-Nighat.docx"
   },
   {
     "courseCode": "CSC-407",
     "courseName": "Information Security",
     "semester": "Eighth Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Ms. Sadia",
-    "year": "2021",
-    "type": "Midterm",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/CSC-407/Ms-Sadia/2021_Midterm.pdf"
+    "teacherName": "Hafiz Ishfaq Ahmed",
+    "year": "2024",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/CSC-407/HafizIshfaq/IS-Final-Term-2024-HafizIshfaq.docx"
+  },
+  {
+    "courseCode": "CSC-407",
+    "courseName": "Information Security",
+    "semester": "Eighth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Nighat",
+    "year": "2023",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/CSC-407/Nighat/IS-Mid-Term-Exam-Spring-2023-Hafiz-Nighat.docx"
   },
 
   // Semester 8 - SEN-456 (Usability Engineering)
@@ -1224,19 +1190,19 @@
     "courseName": "Usability Engineering",
     "semester": "Eighth Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Dr. Farooq",
-    "year": "2022",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/SEN-456/Dr-Farooq/2022_Final.pdf"
+    "teacherName": "Qazi Mohsin Ijaz",
+    "year": "2024",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/SEN-456/QaziMohsinIjaz/UE-Mid-Term-2024-QaziMohsin.jpg"
   },
   {
     "courseCode": "SEN-456",
     "courseName": "Usability Engineering",
     "semester": "Eighth Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "Prof. Hameed",
-    "year": "2021",
-    "type": "Project",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/SEN-456/Prof-Hameed/2021_Project.pdf"
+    "teacherName": "Asim Ali",
+    "year": "2024",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/SEN-456/AsimAli/UE-Final-2024-AsimAli.jpg"
   }
 ]
