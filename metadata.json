@@ -10,6 +10,26 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/CSC-113/AliMirza/CP-Final-Term-2020-Ali-Mirza.docx"
   },
   {
+    "courseCode": "CSC-210",
+    "courseName": "Object Oriented Programming",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Imran Siddiqi",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CSC-210/ImranSiddiqi/OOP-Theory-Final-Imran.pdf"
+  },
+  {
+    "courseCode": "CEN-120",
+    "courseName": "Digital Logic Design",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Muhammad Usman",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CEN-120/Usman/DLD-Theory-Final-Usman.pdf"
+  },
+  {
     "courseCode": "CEL-324",
     "courseName": "Computer Organization & Assembly Language Lab",
     "semester": "Third Semester",
@@ -49,7 +69,16 @@
     "type": "Mid",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEN-324/AsfandYar/COAL-Mid-Term-2023-Asfand-Abdul-Rahman.docx"
   },
-
+  {
+    "courseCode": "CEN-324",
+    "courseName": "Computer Organization & Assembly Language",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "AsfandYar",
+    "year": "2020",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEN-324/AsfandYar/COAL-MidTerm-2020-Asfandyar.pdf"
+  },
   {
     "courseCode": "CEN-324",
     "courseName": "Computer Organization & Assembly Language",
@@ -61,6 +90,57 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEN-324/AsfandYar/COAL-Final-Term-2023-Asfand-AbdulRahman.docx"
   },
   {
+    "courseCode": "CEN-222",
+    "courseName": "Data Communication and Networking",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Moazam Ali",
+    "year": "2022",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CEN-222/MoazamAli/DCN-Mid-Term-2022-Moazam-Israr.docx"
+  },
+  {
+    "courseCode": "CEN-222",
+    "courseName": "Data Communication and Networking",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Israr Akhtar",
+    "year": "2022",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CEN-222/IsrarAkhtar/DCN-Mid-Term-2022-Moazam-Israr.docx"
+  },
+  {
+    "courseCode": "GSC-210",
+    "courseName": "Differential Equation",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Muhammad Ramazan",
+    "year": "2023",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CEN-222/Ramzan/DE-Final-Term-2023-Ramzan.docx"
+  },
+  //make for GSC-112 name is Probability and Statistics
+  {
+    "courseCode": "GSC-112",
+    "courseName": "Probability and Statistics",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "John Doe",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/GSC-112/JohnDoe/PS-Final-Term-2021-John-Doe.docx"
+  }
+  {
+    "courseCode": "GSC-320",
+    "courseName": "Numerical Analysis",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Ambrina Kanwal",
+    "year": "2023",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/AmbrinaKanwal/NA-MidTerm-Ambrina-2023.docx"
+  },
+  {
     "courseCode": "GSC-320",
     "courseName": "Numerical Analysis",
     "semester": "Sixth Semester",
@@ -69,6 +149,26 @@
     "year": "2023",
     "type": "Final",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/AmbrinaKanwal/NA-FinalTerm-2023-Ambrina.pdf"
+  },
+  {
+    "courseCode": "GSC-320",
+    "courseName": "Numerical Analysis",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Ambrina Kanwal",
+    "year": "2023",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/AmbrinaKanwal/NA-FinalTerm-Ambrina-Fall-2023.docx"
+  },
+  {
+    "courseCode": "GSC-320",
+    "courseName": "Numerical Analysis",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Ambrina Kanwal",
+    "year": "2021",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/AmbrinaKanwal/NA-MidTerm-Ambrina-2021.docx"
   },
   {
     "courseCode": "HSS-320",
@@ -163,7 +263,26 @@
     "type": "Final",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-325/UsamaImtiaz/Final-Term-Exam--Spring-2023-12072023-104218pm.pdf"
   },
-
+  {
+    "courseCode": "CSC-341",
+    "courseName": "Mobile Application Development",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Muhammad Asif",
+    "year": "2024",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-341/MuhammadAsif/Mid-Term-Exam-Spring-2024-MAD-Theory.docx"
+  },
+  {
+    "courseCode": "CSL-341",
+    "courseName": "Web Engineering",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Muhammad Asif",
+    "year": "2024",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSL-341/MuhammadAsif/Mad-Final-Term-2024-Asif.docx"
+  },
   {
     "courseCode": "SEN-310",
     "courseName": "Web Engineering",
@@ -184,6 +303,26 @@
     "year": "2023",
     "type": "Final",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/SEL-310/MuhammadAsif/Final-Term-Exam-Fall-2023-WE-Lab-Asif.docx"
+  },
+  {
+    "courseCode": "SEL-310",
+    "courseName": "Web Engineering Lab",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Ahtesham Noor",
+    "year": "2024",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/SEL-310/AhteshamNoor/WEBLAB-MidTerm-Fall-2024-AhteshamNoor.docx"
+  },
+  {
+    "courseCode": "SEL-310",
+    "courseName": "Web Engineering Lab",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Ahtesham Noor",
+    "year": "2024",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/SEL-310/AhteshamNoor/WEBLAB-FinalTerm-Fall-2024-AhteshamNoor.docx.docx"
   },
 
   {
