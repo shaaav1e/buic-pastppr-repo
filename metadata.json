@@ -19,48 +19,9 @@
     "type": "Mid",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEL-324/AbdulRahman/COAL-MID-2022-AbdulRahman.docx"
   },
+
   {
-    "courseCode": "CEN-324",
-    "courseName": "Computer Organization & Assembly Language",
-    "semester": "Third Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Abdul Rahman",
-    "year": "2023",
-    "type": "Mid",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEL-324/AbdulRahman/COAL-Mid-Term-2023-Asfand-Abdul-Rahman.docx"
-  },
-  {
-    "courseCode": "CEN-324",
-    "courseName": "Computer Organization & Assembly Language",
-    "semester": "Third Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Abdul Rahman",
-    "year": "2023",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEL-324/AbdulRahman/COAL-Final-Term-2023-Asfand-AbdulRahman.docx"
-  },
-  {
-    "courseCode": "CEN-324",
-    "courseName": "Computer Organization & Assembly Language",
-    "semester": "Third Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "AsfandYar",
-    "year": "2023",
-    "type": "Mid",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEL-324/AsfandYar/COAL-Mid-Term-2023-Asfand-Abdul-Rahman.docx"
-  },
-  {
-    "courseCode": "CEN-324",
-    "courseName": "Computer Organization & Assembly Language",
-    "semester": "Third Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "AsfandYar",
-    "year": "2023",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEL-324/AsfandYar/COAL-Final-Term-2023-Asfand-AbdulRahman.docx"
-  },
-  {
-    "courseCode": "HSS-320",
+    "courseCode": "GSC-320",
     "courseName": "Technical Writing & presentation skills",
     "semester": "Sixth Semester",
     "roadmap": "Old RoadMap",
