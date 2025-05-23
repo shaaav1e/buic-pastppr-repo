@@ -140,6 +140,36 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/GSC-122/AnjumShahzad/P&S-Final-Term-2021-AnjumShahzad.docx"
   },
   {
+    "courseCode": "CSC-221",
+    "courseName": "Data Structures & Algorithms",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Saima Jawad",
+    "year": "2022",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CSC-221/SaimaJawad/DSA-Mid-Term-2022-Saima.docx"
+  },
+  {
+    "courseCode": "GSC-211",
+    "courseName": "Multivariable Calculus",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Hina Gul",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/GSC-211/HinaGul/MVC-Final-Term-2022-HinaGul.docx"
+  },
+  {
+    "courseCode": "GSC-320",
+    "courseName": "Numerical Analysis",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Ambrina Kanwal",
+    "year": "2023",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/AmbrinaKanwal/NA-MidTerm-Ambrina-2023.docx"
+  },
+  {
     "courseCode": "GSC-320",
     "courseName": "Numerical Analysis",
     "semester": "Sixth Semester",
