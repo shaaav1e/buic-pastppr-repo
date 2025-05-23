@@ -19,7 +19,47 @@
     "type": "Mid",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEL-324/AbdulRahman/COAL-MID-2022-AbdulRahman.docx"
   },
+  {
+    "courseCode": "CEN-324",
+    "courseName": "Computer Organization & Assembly Language",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Abdul Rahman",
+    "year": "2023",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEN-324/AbdulRahman/COAL-Mid-Term-2023-Asfand-Abdul-Rahman.docx"
+  },
+  {
+    "courseCode": "CEN-324",
+    "courseName": "Computer Organization & Assembly Language",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Abdul Rahman",
+    "year": "2023",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEN-324/AbdulRahman/COAL-Final-Term-2023-Asfand-AbdulRahman.docx"
+  },
+  {
+    "courseCode": "CEN-324",
+    "courseName": "Computer Organization & Assembly Language",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "AsfandYar",
+    "year": "2023",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEN-324/AsfandYar/COAL-Mid-Term-2023-Asfand-Abdul-Rahman.docx"
+  },
 
+  {
+    "courseCode": "CEN-324",
+    "courseName": "Computer Organization & Assembly Language",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "AsfandYar",
+    "year": "2023",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEN-324/AsfandYar/COAL-Final-Term-2023-Asfand-AbdulRahman.docx"
+  },
   {
     "courseCode": "GSC-320",
     "courseName": "Numerical Analysis",
@@ -28,7 +68,7 @@
     "teacherName": "Ambrina Kanwal",
     "year": "2023",
     "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/HSS-320/AmbrinaKanwal/NA-FinalTerm-2023-Ambrina.pdf"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/AmbrinaKanwal/NA-FinalTerm-2023-Ambrina.pdf"
   },
   {
     "courseCode": "HSS-320",
