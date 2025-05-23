@@ -119,17 +119,26 @@
     "type": "Final",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CEN-222/Ramzan/DE-Final-Term-2023-Ramzan.docx"
   },
-  //make for GSC-112 name is Probability and Statistics
   {
     "courseCode": "GSC-112",
     "courseName": "Probability and Statistics",
-    "semester": "Second Semester",
+    "semester": "Third Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "John Doe",
+    "teacherName": "Fauzia Tauqeer",
+    "year": "2020",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/GSC-122/FauziaTauqeer/P&S-FinalTerm-Fall-2020-Fauzia-Tauqeer.docx"
+  },
+  {
+    "courseCode": "GSC-112",
+    "courseName": "Probability and Statistics",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Anjum Shahzad",
     "year": "2021",
     "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/GSC-112/JohnDoe/PS-Final-Term-2021-John-Doe.docx"
-  }
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/GSC-122/AnjumShahzad/P&S-Final-Term-2021-AnjumShahzad.docx"
+  },
   {
     "courseCode": "GSC-320",
     "courseName": "Numerical Analysis",
