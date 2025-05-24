@@ -489,7 +489,16 @@
     "type": "Mid",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/HSS-320/QuratulAin/TWPS-MIDTERM-2023-Quratulain.pdf"
   },
-
+  {
+    "courseCode": "HSS-320",
+    "courseName": "Technical Writing & presentation skills",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "QuratulAin",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/HSS-320/QuratulAin/TWPS-Final-Term-2022-Fall-Quratulain.docx"
+  },
   {
     "courseCode": "CSC-325",
     "courseName": "Artificial Intelligence",
