@@ -320,6 +320,56 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/GSC-210/Ramzan/DE-Final-Term-2023-Ramzan.docx"
   },
   {
+    "courseCode": "GSC-210",
+    "courseName": "Differential Equation",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Hina Salman",
+    "year": "2023",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/GSC-210/HinaSalman/DE-Final-2023-Javeria-Hina.docx"
+  },
+  {
+    "courseCode": "GSC-210",
+    "courseName": "Differential Equation",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Javeria Akram",
+    "year": "2023",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/GSC-210/JaveriaAkram/DE-Final-2023-Javeria-Hina.docx"
+  },
+  {
+    "courseCode": "CSC-321",
+    "courseName": "Design and Analysis of Algorithms",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Saima Jawad",
+    "year": "2020",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CSC-321/SaimaJawad/DAA-Fall-2020-MID-Saima.pdf"
+  },
+  {
+    "courseCode": "CSC-321",
+    "courseName": "Design and Analysis of Algorithms",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Arif Rahman",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CSC-321/ArifRahman/DAA-Final-Term-2021-ArifRahman-QamarAbbas.docx"
+  },
+  {
+    "courseCode": "CSC-321",
+    "courseName": "Design and Analysis of Algorithms",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Qamar Abbas",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CSC-321/Qamar/DAA-Final-Term-2021-ArifRahman-QamarAbbas.docx"
+  },
+  {
     "courseCode": "GSC-320",
     "courseName": "Numerical Analysis",
     "semester": "Sixth Semester",
