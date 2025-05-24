@@ -10,6 +10,46 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/CSC-113/AliMirza/CP-Final-Term-2020-Ali-Mirza.docx"
   },
   {
+    "courseCode": "CSC-113",
+    "courseName": "Computer Programming",
+    "semester": "First Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Abrar Ahmed",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/CSC-113/AbrarAhmed/CP-Final-Term-2022-Abrar-Nabia-Maryam.pdf"
+  },
+  {
+    "courseCode": "CSC-113",
+    "courseName": "Computer Programming",
+    "semester": "First Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Maryam Aslam",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/CSC-113/MaryamAslam/CP-Final-Term-2022-Abrar-Nabia-Maryam.pdf"
+  },
+  {
+    "courseCode": "CSC-113",
+    "courseName": "Computer Programming",
+    "semester": "First Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Nabia Khalid",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/CSC-113/NabiaKhalid/CP-Final-Term-2022-Abrar-Nabia-Maryam.pdf"
+  },
+  {
+    "courseCode": "CSL-113",
+    "courseName": "Computer Programming Lab",
+    "semester": "First Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Sara Durrani",
+    "year": "2024",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/CSL-113/SaraDurrani/CP-LAB-MID-2024-Sara.docx"
+  },
+  {
     "courseCode": "CSC-210",
     "courseName": "Object Oriented Programming",
     "semester": "Second Semester",
