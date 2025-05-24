@@ -324,6 +324,26 @@
     "courseName": "Database Management Systems",
     "semester": "Fourth Semester",
     "roadmap": "Old RoadMap",
+    "teacherName": "Muhammad Imran",
+    "year": "2021",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CSC-220/Imran/DBMS-Mid-2021-Spring-QAbbas-Imran.docx"
+  },
+  {
+    "courseCode": "CSC-220",
+    "courseName": "Database Management Systems",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Q.Abbas",
+    "year": "2021",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CSC-220/Q.Abbas/DBMS-Mid-2021-Spring-QAbbas-Imran.docx"
+  },
+  {
+    "courseCode": "CSC-220",
+    "courseName": "Database Management Systems",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
     "teacherName": "Fatima Khalique",
     "year": "2022",
     "type": "Mid",
