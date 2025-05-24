@@ -96,6 +96,16 @@
     "roadmap": "Old RoadMap",
     "teacherName": "Muhammad Usman",
     "year": "2021",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CEN-120/Usman/DLD-Mid-Term-2021-M.Usman.jpg"
+  },
+  {
+    "courseCode": "CEN-120",
+    "courseName": "Digital Logic Design",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Muhammad Usman",
+    "year": "2021",
     "type": "Final",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CEN-120/Usman/DLD-Theory-Final-Usman.pdf"
   },
@@ -108,6 +118,16 @@
     "year": "2024",
     "type": "Mid",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/HSS-120/SairaShafiq/CommunicationSkills-Mid-2024-Saira.docx"
+  },
+  {
+    "courseCode": "HSS-120",
+    "courseName": "Communication Skills",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Tipu Ismail",
+    "year": "2021",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/HSS-120/TipuIsmail/CSkills-Mid-Term-2021-TipuIsmail.jpg"
   },
   {
     "courseCode": "GSC-221",
