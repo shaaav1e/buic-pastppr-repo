@@ -50,6 +50,36 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/CSL-113/SaraDurrani/CP-LAB-MID-2024-Sara.docx"
   },
   {
+    "courseCode": "CSC-114",
+    "courseName": "Introduction to Information Communication Technology",
+    "semester": "First Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Nadia Kalsoom",
+    "year": "2024",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/CSC-114/NadiaKalsoom/ICT-Nadia-Mid-2024.jpg"
+  },
+  {
+    "courseCode": "BES-103",
+    "courseName": "Critical Thinking",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Huma Waqar",
+    "year": "2022",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/BES-103/HumaWaqar/CriticalThinking-Mid-2022-Fall-HumaWaqar.docx"
+  },
+  {
+    "courseCode": "BES-103",
+    "courseName": "Critical Thinking",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Huma Waqar",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/BES-103/HumaWaqar/CriticalThinking-Final-2022-HumaWaqar.docx"
+  },
+  {
     "courseCode": "CSC-210",
     "courseName": "Object Oriented Programming",
     "semester": "Second Semester",
@@ -68,6 +98,36 @@
     "year": "2021",
     "type": "Final",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CEN-120/Usman/DLD-Theory-Final-Usman.pdf"
+  },
+  {
+    "courseCode": "HSS-120",
+    "courseName": "Communication Skills",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Saira Shafiq",
+    "year": "2024",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/HSS-120/SairaShafiq/CommunicationSkills-Mid-2024-Saira.docx"
+  },
+  {
+    "courseCode": "GSC-221",
+    "courseName": "Discrete Mathematics",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Faisal Asad",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/GSC-221/FaisalAsad/DM-Final-Term-2022-Faisal-Saira.pdf"
+  },
+  {
+    "courseCode": "GSC-221",
+    "courseName": "Discrete Mathematics",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Sara Mehmood",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/GSC-221/Sara Mehmood/DM-Final-Term-2022-Faisal-Saira.pdf"
   },
   {
     "courseCode": "CEL-324",
