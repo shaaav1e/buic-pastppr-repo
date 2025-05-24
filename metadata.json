@@ -14,6 +14,16 @@
     "courseName": "Computer Programming",
     "semester": "First Semester",
     "roadmap": "Old RoadMap",
+    "teacherName": "Umar Khattak",
+    "year": "0000",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/CSC-113/UmarKhattak/CP-Final-UmarKhattak-Unclear.docx"
+  },
+  {
+    "courseCode": "CSC-113",
+    "courseName": "Computer Programming",
+    "semester": "First Semester",
+    "roadmap": "Old RoadMap",
     "teacherName": "Abrar Ahmed",
     "year": "2022",
     "type": "Final",
@@ -88,6 +98,36 @@
     "year": "2021",
     "type": "Final",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CSC-210/ImranSiddiqi/OOP-Theory-Final-Imran.pdf"
+  },
+  {
+    "courseCode": "CSC-210",
+    "courseName": "Object Oriented Programming",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Imran Siddiqi",
+    "year": "2022",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CSC-210/ImranSiddiqi/OOP-Mid-2022-Spring-Imran-Burhan-Erum.docx"
+  },
+  {
+    "courseCode": "CSC-210",
+    "courseName": "Object Oriented Programming",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Burhan Abbasi",
+    "year": "2022",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CSC-210/BurhanAbbasi/OOP-Mid-2022-Spring-Imran-Burhan-Erum.docx"
+  },
+  {
+    "courseCode": "CSC-210",
+    "courseName": "Object Oriented Programming",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Erum Ashraf",
+    "year": "2022",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CSC-210/ErumAshraf/OOP-Mid-2022-Spring-Imran-Burhan-Erum.docx"
   },
   {
     "courseCode": "CEN-120",
