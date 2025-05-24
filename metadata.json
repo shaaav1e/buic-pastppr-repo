@@ -347,7 +347,7 @@
     "teacherName": "Saima Jawad",
     "year": "2020",
     "type": "Mid",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CSC-321/SaimaJawad/DAA-Fall-2020-MID-Saima.pdf"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/CSC-321/SaimaJawad/DAA-Fall-2020-MID-Saima.pdf"
   },
   {
     "courseCode": "CSC-321",
@@ -357,7 +357,7 @@
     "teacherName": "Arif Rahman",
     "year": "2021",
     "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CSC-321/ArifRahman/DAA-Final-Term-2021-ArifRahman-QamarAbbas.docx"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/CSC-321/ArifRahman/DAA-Final-Term-2021-ArifRahman-QamarAbbas.docx"
   },
   {
     "courseCode": "CSC-321",
@@ -367,7 +367,67 @@
     "teacherName": "Qamar Abbas",
     "year": "2021",
     "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CSC-321/Qamar/DAA-Final-Term-2021-ArifRahman-QamarAbbas.docx"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/CSC-321/Qamar/DAA-Final-Term-2021-ArifRahman-QamarAbbas.docx"
+  },
+  {
+    "courseCode": "GSC-121",
+    "courseName": "Linear Algebra",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Fauzia Tauqeer",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/GSC-121/FauziaTauqeer/LA-Final-Term-2021-FouziaTauqeer.docx"
+  },
+  {
+    "courseCode": "ISL-101",
+    "courseName": "Islamic Studies/Ethics",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Alia Zaid",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/ISL-101/AliaZaid/ISL-Final-Term-2021-Alia-Sajjad.docx"
+  },
+  {
+    "courseCode": "ISL-101",
+    "courseName": "Islamic Studies/Ethics",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Sajjad Hussain",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/ISL-101/SajjadHussain/ISL-Final-Term-2021-Alia-Sajjad.docx"
+  },
+  {
+    "courseCode": "SEN-220",
+    "courseName": "Software Engineering",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Anum Kaleem",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/SEN-220/AnumKaleem/SE-2022-Final-Anum-Zeeshan.docx"
+  },
+  {
+    "courseCode": "SEN-220",
+    "courseName": "Software Engineering",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Zeeshan Aslam",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/SEN-220/ZeeshanAslam/SE-2022-Final-Anum-Zeeshan.docx"
+  },
+  {
+    "courseCode": "SEN-220",
+    "courseName": "Software Engineering",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Maryam Khalid",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/SEN-220/MaryamKhalid/SE-Final-Term-2021-Maryam.docx"
   },
   {
     "courseCode": "GSC-320",
