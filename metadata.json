@@ -190,36 +190,6 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEN-324/AsfandYar/COAL-Final-Term-2023-Asfand-AbdulRahman.docx"
   },
   {
-    "courseCode": "CEN-222",
-    "courseName": "Data Communication and Networking",
-    "semester": "Fourth Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Moazam Ali",
-    "year": "2022",
-    "type": "Mid",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CEN-222/MoazamAli/DCN-Mid-Term-2022-Moazam-Israr.docx"
-  },
-  {
-    "courseCode": "CEN-222",
-    "courseName": "Data Communication and Networking",
-    "semester": "Fourth Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Israr Akhtar",
-    "year": "2022",
-    "type": "Mid",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CEN-222/IsrarAkhtar/DCN-Mid-Term-2022-Moazam-Israr.docx"
-  },
-  {
-    "courseCode": "GSC-210",
-    "courseName": "Differential Equation",
-    "semester": "Fourth Semester",
-    "roadmap": "Old RoadMap",
-    "teacherName": "Muhammad Ramazan",
-    "year": "2023",
-    "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/GSC-210/Ramzan/DE-Final-Term-2023-Ramzan.docx"
-  },
-  {
     "courseCode": "GSC-112",
     "courseName": "Probability and Statistics",
     "semester": "Third Semester",
@@ -278,6 +248,76 @@
     "year": "2023",
     "type": "Final",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/GSC-211/AliRaza/MCV-Final-AliRaza-2023.pdf"
+  },
+  {
+    "courseCode": "CSC-220",
+    "courseName": "Database Management Systems",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Muhammad Imran",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CSC-220/Imran/DBMS-2021-Final-Imran.pdf"
+  },
+  {
+    "courseCode": "CSC-220",
+    "courseName": "Database Management Systems",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Fatima Khalique",
+    "year": "2022",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CSC-220/FatimaKhalique/DBMS-Mid-2022-Fatima.docx"
+  },
+  {
+    "courseCode": "CSC-315",
+    "courseName": "Theory of Automata",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Sabina Akhtar",
+    "year": "2020",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CSC-315/Sabina/TOA-Final-2020-Sabina.pdf"
+  },
+  {
+    "courseCode": "CEN-222",
+    "courseName": "Data Communication and Networking",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Moazam Ali",
+    "year": "2022",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CEN-222/MoazamAli/DCN-Mid-Term-2022-Moazam-Israr.docx"
+  },
+  {
+    "courseCode": "CEN-222",
+    "courseName": "Data Communication and Networking",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Moazam Ali",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CEN-222/MoazamAli/DCN-Final-2021-Moazam.pdf"
+  },
+  {
+    "courseCode": "CEN-222",
+    "courseName": "Data Communication and Networking",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Israr Akhtar",
+    "year": "2022",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CEN-222/IsrarAkhtar/DCN-Mid-Term-2022-Moazam-Israr.docx"
+  },
+  {
+    "courseCode": "GSC-210",
+    "courseName": "Differential Equation",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Muhammad Ramazan",
+    "year": "2023",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/GSC-210/Ramzan/DE-Final-Term-2023-Ramzan.docx"
   },
   {
     "courseCode": "GSC-320",
