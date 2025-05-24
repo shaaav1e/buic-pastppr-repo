@@ -164,7 +164,7 @@
     "courseName": "Computer Organization & Assembly Language",
     "semester": "Third Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "AsfandYar",
+    "teacherName": "Muhammad Asfand E Yar",
     "year": "2023",
     "type": "Mid",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEN-324/AsfandYar/COAL-Mid-Term-2023-Asfand-Abdul-Rahman.docx"
@@ -174,7 +174,7 @@
     "courseName": "Computer Organization & Assembly Language",
     "semester": "Third Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "AsfandYar",
+    "teacherName": "Muhammad Asfand E Yar",
     "year": "2020",
     "type": "Mid",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEN-324/AsfandYar/COAL-MidTerm-2020-Asfandyar.pdf"
@@ -184,7 +184,7 @@
     "courseName": "Computer Organization & Assembly Language",
     "semester": "Third Semester",
     "roadmap": "Old RoadMap",
-    "teacherName": "AsfandYar",
+    "teacherName": "Muhammad Asfand E Yar",
     "year": "2023",
     "type": "Final",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEN-324/AsfandYar/COAL-Final-Term-2023-Asfand-AbdulRahman.docx"
@@ -250,6 +250,16 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CSC-221/SaimaJawad/DSA-Mid-Term-2022-Saima.docx"
   },
   {
+    "courseCode": "CSC-221",
+    "courseName": "Data Structures & Algorithms",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Momina Moetesum",
+    "year": "2021",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CSC-221/Momina/DSA-Mid-2021-Spring-Momina.docx"
+  },
+  {
     "courseCode": "GSC-211",
     "courseName": "Multivariable Calculus",
     "semester": "Third Semester",
@@ -258,6 +268,16 @@
     "year": "2022",
     "type": "Final",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/GSC-211/HinaGul/MVC-Final-Term-2022-HinaGul.docx"
+  },
+  {
+    "courseCode": "GSC-211",
+    "courseName": "Multivariable Calculus",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Ali Raza",
+    "year": "2023",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/GSC-211/AliRaza/MCV-Final-AliRaza-2023.pdf"
   },
   {
     "courseCode": "GSC-320",
