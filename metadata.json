@@ -1034,6 +1034,26 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/CEN-455/MuhammadAsif/P&DC-Mid-Term-Exam-Summer-2024-Asif.docx"
   },
   {
+    "courseCode": "CEN-455",
+    "courseName": "Parallel & Distributed Computing",
+    "semester": "Seventh Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Saima Jawad",
+    "year": "2022",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/CEN-455/Saima/P&DC-Mid-Saima-Maryam-Fall-2022.jpg"
+  },
+  {
+    "courseCode": "CEN-455",
+    "courseName": "Parallel & Distributed Computing",
+    "semester": "Seventh Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Maryam Khalid",
+    "year": "2022",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/CEN-455/Saima/P&DC-Mid-Saima-Maryam-Fall-2022.jpg"
+  },
+  {
     "courseCode": "CSC-441",
     "courseName": "Natural Language Processing",
     "semester": "Seventh Semester",
@@ -1043,7 +1063,16 @@
     "type": "Final",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/CSC-441/ArifUrRahman/NLP-Final-Term-2023-Arif.docx"
   },
-
+  {
+    "courseCode": "PAK-101",
+    "courseName": "Pakistan Studies",
+    "semester": "Seventh Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Tehmina Ijaz",
+    "year": "2023",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/PAK-101/TehminaIjaz/PakStudies-2023-Mid-Tehmina.docx"
+  },
   {
     "courseCode": "MGT-242",
     "courseName": "Organizational Theory & Behavior",
