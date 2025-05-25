@@ -56,7 +56,7 @@
     "roadmap": "Old RoadMap",
     "teacherName": "Sara Durrani",
     "year": "2024",
-    "type": "Final",
+    "type": "Mid",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-1/CSL-113/SaraDurrani/CP-LAB-MID-2024-Sara.docx"
   },
   {
@@ -151,23 +151,23 @@
   },
   {
     "courseCode": "CSL-210",
-    "courseName": "Object Oriented Programming",
+    "courseName": "Object Oriented Programming Lab",
     "semester": "Second Semester",
     "roadmap": "Old RoadMap",
     "teacherName": "Sikandar Hayat",
     "year": "2021",
     "type": "Mid",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CSC-210/SikandarHayat/OOPLAB-MID-2021-Spring-Sikander.docx"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CSL-210/SikandarHayat/OOPLAB-MID-2021-Spring-Sikander.docx"
   },
   {
     "courseCode": "CSL-210",
-    "courseName": "Object Oriented Programming",
+    "courseName": "Object Oriented Programming Lab",
     "semester": "Second Semester",
     "roadmap": "Old RoadMap",
     "teacherName": "Sikandar Hayat",
     "year": "2020",
     "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CSC-210/SikandarHayat/OOPLAB-Final-2020-Fall-Sikander.docx"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CSL-210/SikandarHayat/OOPLAB-Final-2020-Fall-Sikander.docx"
   },
   {
     "courseCode": "CEN-120",
@@ -377,7 +377,7 @@
     "teacherName": "Sikandar Hayat",
     "year": "2021",
     "type": "Mid",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CSC-221/SikandarHayat/DSA-LAB-Mid-2021-Fall-Sikandar.docx"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CSL-221/SikandarHayat/DSA-LAB-Mid-2021-Fall-Sikandar.docx"
   },
   {
     "courseCode": "GSC-211",
@@ -962,14 +962,14 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSC-341/MuhammadAsif/Mid-Term-Exam-Spring-2024-MAD-Theory.docx"
   },
   {
-    "courseCode": "CSL-341",
+    "courseCode": "SEN-310",
     "courseName": "Web Engineering",
     "semester": "Sixth Semester",
     "roadmap": "Old RoadMap",
     "teacherName": "Muhammad Asif",
     "year": "2024",
     "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/CSL-341/MuhammadAsif/Mad-Final-Term-2024-Asif.docx"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/SEN-310/MuhammadAsif/Mad-Final-Term-2024-Asif.docx"
   },
   {
     "courseCode": "SEN-310",
@@ -1010,7 +1010,7 @@
     "teacherName": "Ahtesham Noor",
     "year": "2024",
     "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/SEL-310/AhteshamNoor/WEBLAB-FinalTerm-Fall-2024-AhteshamNoor.docx.docx"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/SEL-310/AhteshamNoor/WEBLAB-FinalTerm-Fall-2024-AhteshamNoor.docx"
   },
 
   {
