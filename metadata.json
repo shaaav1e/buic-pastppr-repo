@@ -237,7 +237,17 @@
     "teacherName": "Abdul Rahman",
     "year": "2022",
     "type": "Mid",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEL-324/AbdulRahman/COAL-MID-2022-AbdulRahman.docx"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEL-324/AbdulRahman/Coal-Lab-Mid-2022-Spring-AbdulRahman.docx"
+  },
+  {
+    "courseCode": "CEL-324",
+    "courseName": "Computer Organization & Assembly Language Lab",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Ayeza Ghazanfar",
+    "year": "2020",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEL-324/Ayeza/COAL-LAB-MID-2020-Fall-Ayeza.docx"
   },
   {
     "courseCode": "CEN-324",
@@ -248,6 +258,16 @@
     "year": "2023",
     "type": "Mid",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEN-324/AbdulRahman/COAL-Mid-Term-2023-Asfand-Abdul-Rahman.docx"
+  },
+  {
+    "courseCode": "CEN-324",
+    "courseName": "Computer Organization & Assembly Language",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Abdul Rahman",
+    "year": "2022",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CEN-324/AbdulRahman/COAL-Mid-2022-Spring-AbdulRahman.docx"
   },
   {
     "courseCode": "CEN-324",
@@ -324,10 +344,40 @@
     "courseName": "Data Structures & Algorithms",
     "semester": "Third Semester",
     "roadmap": "Old RoadMap",
+    "teacherName": "Saima Jawad",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CSC-221/SaimaJawad/DSA-2022-Final-Spring-Saima.docx"
+  },
+  {
+    "courseCode": "CSC-221",
+    "courseName": "Data Structures & Algorithms",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
     "teacherName": "Momina Moetesum",
     "year": "2021",
     "type": "Mid",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CSC-221/Momina/DSA-Mid-2021-Spring-Momina.docx"
+  },
+  {
+    "courseCode": "CSC-221",
+    "courseName": "Data Structures & Algorithms",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Momina Moetesum",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CSC-221/Momina/DSA-FINAL-2021-Spring-Momina.docx"
+  },
+  {
+    "courseCode": "CSC-221",
+    "courseName": "Data Structures & Algorithms Lab",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Sikandar Hayat",
+    "year": "2021",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CSC-221/SikandarHayat/DSA-LAB-Mid-2021-Fall-Sikandar.docx"
   },
   {
     "courseCode": "GSC-211",
