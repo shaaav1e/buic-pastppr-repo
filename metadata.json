@@ -1048,10 +1048,30 @@
     "courseName": "Parallel & Distributed Computing",
     "semester": "Seventh Semester",
     "roadmap": "Old RoadMap",
+    "teacherName": "Saima Jawad",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/CEN-455/Saima/P&DC-Final-Fall-2022-Saima-Maryam.docx"
+  },
+  {
+    "courseCode": "CEN-455",
+    "courseName": "Parallel & Distributed Computing",
+    "semester": "Seventh Semester",
+    "roadmap": "Old RoadMap",
     "teacherName": "Maryam Khalid",
     "year": "2022",
     "type": "Mid",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/CEN-455/Saima/P&DC-Mid-Saima-Maryam-Fall-2022.jpg"
+  },
+  {
+    "courseCode": "CEN-455",
+    "courseName": "Parallel & Distributed Computing",
+    "semester": "Seventh Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Maryam Khalid",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-7/CEN-455/Saima/P&DC-Final-Fall-2022-Saima-Maryam.docx"
   },
   {
     "courseCode": "CSC-441",
