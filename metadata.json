@@ -440,6 +440,16 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CSC-220/FatimaKhalique/DBMS-Mid-2022-Fatima.docx"
   },
   {
+    "courseCode": "CSC-220",
+    "courseName": "Database Management Systems",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Muhammad Siddique",
+    "year": "2023",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CSC-220/Siddique/DBMS-Mid-2023-Fall-Siddique.png"
+  },
+  {
     "courseCode": "CSC-315",
     "courseName": "Theory of Automata",
     "semester": "Fourth Semester",
@@ -478,6 +488,16 @@
     "year": "2022",
     "type": "Mid",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CEN-222/IsrarAkhtar/DCN-Mid-Term-2022-Moazam-Israr.docx"
+  },
+  {
+    "courseCode": "CEL-222",
+    "courseName": "Data Communication and Networking Lab",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Zain Ul Abideen",
+    "year": "2022",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/CEL-222/ZainulAbideen/DCN-Lab-2020-Fall-Zain.docx"
   },
   {
     "courseCode": "GSC-210",
@@ -550,6 +570,46 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/GSC-121/FauziaTauqeer/LA-Final-Term-2021-FouziaTauqeer.docx"
   },
   {
+    "courseCode": "GSC-121",
+    "courseName": "Linear Algebra",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Ambrina Kanwal",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/GSC-121/Ambrina/LA-Final-2022-Fall-Ambrina.docx"
+  },
+  {
+    "courseCode": "GSC-121",
+    "courseName": "Linear Algebra",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Nasir",
+    "year": "2024",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/GSC-121/Nasir/LA-Final-Nasir-Arisha-.docx"
+  },
+  {
+    "courseCode": "GSC-121",
+    "courseName": "Linear Algebra",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Arisha Ali",
+    "year": "2024",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/GSC-121/Arisha/LA-Final-Nasir-Arisha-.docx"
+  },
+  {
+    "courseCode": "GSC-121",
+    "courseName": "Linear Algebra",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Muhammad Ramzan",
+    "year": "2023",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/GSC-121/Ramzan/LA-Mid-2023-Spring-Ramzan.docx"
+  },
+  {
     "courseCode": "ISL-101",
     "courseName": "Islamic Studies/Ethics",
     "semester": "Fifth Semester",
@@ -568,6 +628,26 @@
     "year": "2021",
     "type": "Final",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/ISL-101/SajjadHussain/ISL-Final-Term-2021-Alia-Sajjad.docx"
+  },
+  {
+    "courseCode": "CSC-320",
+    "courseName": "Operating Systems",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Mehroz Sadiq",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/CSC-320/Mehroz/OS-FINAL-2022-Fall-Mehroz.docx"
+  },
+  {
+    "courseCode": "CSC-320",
+    "courseName": "Operating Systems",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Sabira Feroz",
+    "year": "2023",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/CSC-320/Sabira/OS-Final-Fall-2023-Sabira.docx"
   },
   {
     "courseCode": "SEN-220",
@@ -598,6 +678,36 @@
     "year": "2021",
     "type": "Final",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/SEN-220/MaryamKhalid/SE-Final-Term-2021-Maryam.docx"
+  },
+  {
+    "courseCode": "CSC-323",
+    "courseName": "Compiler Construction",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Qazi Mohsin Ijaz",
+    "year": "2024",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/CSC-323/QaziMohsin/CC-Final-2024-QaziMohsin-QaziHaseeb-UmarHayat.docx"
+  },
+  {
+    "courseCode": "CSC-323",
+    "courseName": "Compiler Construction",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Qazi Haseeb Yousaf",
+    "year": "2024",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/CSC-323/QaziHaseeb/CC-Final-2024-QaziMohsin-QaziHaseeb-UmarHayat.docx"
+  },
+  {
+    "courseCode": "CSC-323",
+    "courseName": "Compiler Construction",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Umar Hayat",
+    "year": "2024",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/CSC-323/UmarHayat/CC-Final-2024-QaziMohsin-QaziHaseeb-UmarHayat.docx"
   },
   {
     "courseCode": "GSC-320",
