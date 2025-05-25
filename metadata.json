@@ -114,6 +114,26 @@
     "courseName": "Object Oriented Programming",
     "semester": "Second Semester",
     "roadmap": "Old RoadMap",
+    "teacherName": "Imran Siddiqi",
+    "year": "2020",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CSC-210/ImranSiddiqi/OOP-Mid-Term-2020-Fall-Imran-Saima.docx"
+  },
+  {
+    "courseCode": "CSC-210",
+    "courseName": "Object Oriented Programming",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Saima Jawad",
+    "year": "2020",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CSC-210/SaimaJawad/OOP-Mid-Term-2020-Fall-Imran-Saima.docx"
+  },
+  {
+    "courseCode": "CSC-210",
+    "courseName": "Object Oriented Programming",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
     "teacherName": "Burhan Abbasi",
     "year": "2022",
     "type": "Mid",
