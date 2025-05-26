@@ -404,6 +404,26 @@
     "courseName": "Multivariable Calculus",
     "semester": "Third Semester",
     "roadmap": "Old RoadMap",
+    "teacherName": "Hina Gul",
+    "year": "2020",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/GSC-211/HinaGul/MVC-MID-FALL-2020-Hina.docx"
+  },
+  {
+    "courseCode": "GSC-211",
+    "courseName": "Multivariable Calculus",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Hina Gul",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/GSC-211/HinaGul/MVC-Final-2021-Fall-HinaGul.docx"
+  },
+  {
+    "courseCode": "GSC-211",
+    "courseName": "Multivariable Calculus",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
     "teacherName": "Ali Raza",
     "year": "2023",
     "type": "Final",
@@ -1274,7 +1294,16 @@
     "type": "Mid",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/SEN-420/SairaHameed/SQA-Mid-Term-2024-FazalWahab-SairaHameed.jpg"
   },
-
+  {
+    "courseCode": "CSC-407",
+    "courseName": "Information Security",
+    "semester": "Eighth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Sara Mehmood",
+    "year": "2021",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/CSC-407/Sara/IS-Mid-2021-Sara.docx"
+  },
   {
     "courseCode": "CSC-407",
     "courseName": "Information Security",
