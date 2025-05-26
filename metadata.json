@@ -511,7 +511,7 @@
   },
   {
     "courseCode": "GSC-210",
-    "courseName": "Differential Equation",
+    "courseName": "Differential Equations",
     "semester": "Fourth Semester",
     "roadmap": "Old RoadMap",
     "teacherName": "Muhammad Ramazan",
@@ -521,7 +521,27 @@
   },
   {
     "courseCode": "GSC-210",
-    "courseName": "Differential Equation",
+    "courseName": "Differential Equations",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Muhammad Ramazan",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/GSC-210/Ramzan/DE-Final-2021-Spring-Ramzan.docx"
+  },
+  {
+    "courseCode": "GSC-210",
+    "courseName": "Differential Equations",
+    "semester": "Fourth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Muhammad Ramazan",
+    "year": "2020",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-4/GSC-210/Ramzan/DE-Final-2020-Fall-Ramzan.docx"
+  },
+  {
+    "courseCode": "GSC-210",
+    "courseName": "Differential Equations",
     "semester": "Fourth Semester",
     "roadmap": "Old RoadMap",
     "teacherName": "Hina Salman",
@@ -531,7 +551,7 @@
   },
   {
     "courseCode": "GSC-210",
-    "courseName": "Differential Equation",
+    "courseName": "Differential Equations",
     "semester": "Fourth Semester",
     "roadmap": "Old RoadMap",
     "teacherName": "Javeria Akram",
