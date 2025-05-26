@@ -230,6 +230,16 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/GSC-221/Sara Mehmood/DM-Final-Term-2022-Faisal-Saira.pdf"
   },
   {
+    "courseCode": "CSC-307",
+    "courseName": "Professional Practices",
+    "semester": "Third Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Amir Aqeel",
+    "year": "0000",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-3/CSC-307/AmirAqeel/PP-Mid-AmirAqeel.pdf"
+  },
+  {
     "courseCode": "CEL-324",
     "courseName": "Computer Organization & Assembly Language Lab",
     "semester": "Third Semester",
