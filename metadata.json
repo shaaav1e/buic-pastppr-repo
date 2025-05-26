@@ -740,6 +740,16 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/CSC-320/Sabira/OS-Final-Fall-2023-Sabira.docx"
   },
   {
+    "courseCode": "CSC-320",
+    "courseName": "Operating Systems",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Sabira Feroz",
+    "year": "2023",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/CSC-320/Sabira/OS-Mid-2023-Spring-Sabira.docx"
+  },
+  {
     "courseCode": "SEN-220",
     "courseName": "Software Engineering",
     "semester": "Fifth Semester",
