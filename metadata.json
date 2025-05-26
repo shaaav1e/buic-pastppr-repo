@@ -827,7 +827,7 @@
     "teacherName": "Ambrina Kanwal",
     "year": "2023",
     "type": "Mid",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/AmbrinaKanwal/NA-MidTerm-Ambrina-2023.docx"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/AmbrinaKanwal/NA-MidTerm-Ambrina-2023-Fall.docx"
   },
   {
     "courseCode": "GSC-320",
@@ -846,8 +846,18 @@
     "roadmap": "Old RoadMap",
     "teacherName": "Ambrina Kanwal",
     "year": "2023",
+    "type": "Mid",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/AmbrinaKanwal/NA-Mid-2023-Spring-Ambrina.pdf"
+  },
+  {
+    "courseCode": "GSC-320",
+    "courseName": "Numerical Analysis",
+    "semester": "Sixth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Ambrina Kanwal",
+    "year": "2023",
     "type": "Final",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/AmbrinaKanwal/NA-FinalTerm-2023-Ambrina.pdf"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/AmbrinaKanwal/NA-FinalTerm-2023-Spring-Ambrina.pdf"
   },
   {
     "courseCode": "GSC-320",
@@ -867,7 +877,7 @@
     "teacherName": "Ambrina Kanwal",
     "year": "2021",
     "type": "Mid",
-    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/AmbrinaKanwal/NA-MidTerm-Ambrina-2021.docx"
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-6/GSC-320/AmbrinaKanwal/NA-MidTerm-Ambrina-2021-Spring.docx"
   },
   {
     "courseCode": "HSS-320",
