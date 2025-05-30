@@ -150,6 +150,16 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CSC-210/ErumAshraf/OOP-Mid-2022-Spring-Imran-Burhan-Erum.docx"
   },
   {
+    "courseCode": "CSC-210",
+    "courseName": "Object Oriented Programming",
+    "semester": "Second Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Erum Ashraf",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-2/CSC-210/ErumAshraf/OOP-Theory-Final-2022-Fall-Erum.docx"
+  },
+  {
     "courseCode": "CSL-210",
     "courseName": "Object Oriented Programming Lab",
     "semester": "Second Semester",
