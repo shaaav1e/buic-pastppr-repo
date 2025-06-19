@@ -810,6 +810,16 @@
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/CSC-320/Sabira/OS-Mid-2023-Spring-Sabira.docx"
   },
   {
+    "courseCode": "CSC-320",
+    "courseName": "Operating Systems",
+    "semester": "Fifth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Talha Naqash",
+    "year": "2021",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-5/CSC-320/Talha/OS-Final-TalhaNaqash-2021.jpg"
+  },
+  {
     "courseCode": "SEN-220",
     "courseName": "Software Engineering",
     "semester": "Fifth Semester",
@@ -1303,7 +1313,16 @@
     "type": "Final",
     "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/MGT-242/MadeehaAli/OTB-Final-Term-2024-Erum-Madeeha.docx"
   },
-
+  {
+    "courseCode": "SEN-420",
+    "courseName": "Software Quality Assurance",
+    "semester": "Eighth Semester",
+    "roadmap": "Old RoadMap",
+    "teacherName": "Fazal Wahab",
+    "year": "2022",
+    "type": "Final",
+    "fileUrl": "https://raw.githubusercontent.com/shaaav1e/buic-pastppr-repo/main/papers/old-roadmap/semester-8/SEN-420/FazalWahab/Final-Term-Exam-Spring-2022-SQA-FazalWahab.docx"
+  },
   {
     "courseCode": "SEN-420",
     "courseName": "Software Quality Assurance",
